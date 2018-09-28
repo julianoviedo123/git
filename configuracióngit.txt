@@ -18,3 +18,4 @@ activar ver archivos ocultos en mac
 9- git commit -m "mensaje corto"  (ejecutar un commit para el reposiorio)
 10- git add. (para llamar todos los archivos al repositorio poner punto al final y no el nombre del archivo) 
 11-git status (verificar el estado del repositorio)
+12 git log (verificar los diferentes commint)
