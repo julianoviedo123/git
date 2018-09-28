@@ -19,3 +19,4 @@ activar ver archivos ocultos en mac
 10- git add. (para llamar todos los archivos al repositorio poner punto al final y no el nombre del archivo) 
 11-git status (verificar el estado del repositorio)
 12 git log (verificar los diferentes commint)
+13 git diff commit_id commit_id ejemplo : git diff bc070 40c907 (para validar las diferencias de las versiones guardadas ponienod los 5 primeros codigos de cada versión)
