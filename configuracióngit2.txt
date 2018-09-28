@@ -1,0 +1,21 @@
+buscar gt bash
+
+poner los siguientes comandos
+
+1- git --version ( para ver la versión isntalada)
+2- git config --global user.name "julian oviedo" (usuario creado)
+3- git config --global user.email "julianoviedo123@hotmail.com" ( para elcorreo )
+4- git init --crear un repositorio
+5- git commint --guardar los cambios para una nueva versión
+6- git log --permitir ver la historia de los cambios
+7- git clone  direccionamiento:https://carpetas   ejemplo:git clone https://github.com/mariaclaranextu/cenicienta.git (para guardar archivos ya creados) 
+---------------------------------
+MAC:
+activar ver archivos ocultos en mac
+-defaults write com.apple.finder AppleShow\\files TRUE
+--------------------------------
+8- git add nombre_del archivo --ejemplo git add imagen.jpg (para preprar el archivo aguardar)
+9- git commit -m "mensaje corto"  (ejecutar un commit para el reposiorio)
+10- para llamar todos los archivos al repositorio poner punto al final y no el nombre del archivo ejemplo git add.
+
+11--copia 2234
