@@ -33,6 +33,7 @@ guardar esta rama en el repositorio con git commit -m "nueva rama"
 17 para unir las 2 ramas vamos a usar 
 -git checkout master
 -git merge rama (unir la rama actual con la rama especiica)
--git branch (listar las ramas existentes)
+-git branch (listar las ramas existentes)g
 
 
+-prueba rama 2
