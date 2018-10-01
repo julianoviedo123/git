@@ -6,7 +6,7 @@ poner los siguientes comandos
 2- git config --global user.name "julian oviedo" (usuario creado)
 3- git config --global user.email "julianoviedo123@hotmail.com" ( para elcorreo )
 4- git init --crear un repositorio
-5- git commint --guardar los cambios para una nueva versión
+5- git commit --guardar los cambios para una nueva versión
 6- git log --permitir ver la historia de los cambios
 7- git clone  direccionamiento:https://carpetas   ejemplo:git clone https://github.com/mariaclaranextu/cenicienta.git (para guardar archivos ya creados) 
 ---------------------------------
@@ -20,4 +20,19 @@ activar ver archivos ocultos en mac
 11-git status (verificar el estado del repositorio)
 12 git log (verificar los diferentes commint)
 13 git diff commit_id commit_id ejemplo : git diff bc070 40c907 (para validar las diferencias de las versiones guardadas ponienod los 5 primeros codigos de cada versión)
-14 git checkout commit_id (para volver a una versión anterior)
+14 git checkout commit_id ejemplo:git checkout bc070 (para volver a una versión anterior)
+15 git tag -a nombre_de_la_eqtiqueta -m (mensaje explicativo) ejemplo:git tag -l "v1"
+como crear una rama
+16 
+- git branch nombre_de_la_rama (crear una rama)
+despues debe poner el branch utilizaremos 
+- git checkout nombre_de_la _rama
+despues llamra los archivos al repositorio , todos con git add.
+guardar esta rama en el repositorio con git commit -m "nueva rama"
+
+17 para unir las 2 ramas vamos a usar 
+-git checkout master
+-git merge rama (unir la rama actual con la rama especiica)
+-git branch (listar las ramas existentes)
+
+
