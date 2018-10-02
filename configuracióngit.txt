@@ -2,11 +2,11 @@ buscar gt bash
 
 poner los siguientes comandos
 
-1- git --version ( para ver la versi髇 isntalada)
+1- git --version ( para ver la versi贸n isntalada)
 2- git config --global user.name "julian oviedo" (usuario creado)
 3- git config --global user.email "julianoviedo123@hotmail.com" ( para elcorreo )
 4- git init --crear un repositorio
-5- git commit --guardar los cambios para una nueva versi髇
+5- git commit --guardar los cambios para una nueva versi贸n
 6- git log --permitir ver la historia de los cambios
 7- git clone  direccionamiento:https://carpetas   ejemplo:git clone https://github.com/mariaclaranextu/cenicienta.git (para guardar archivos ya creados) 
 ---------------------------------
@@ -19,8 +19,8 @@ activar ver archivos ocultos en mac
 10- git add. (para llamar todos los archivos al repositorio poner punto al final y no el nombre del archivo) 
 11-git status (verificar el estado del repositorio)
 12 git log (verificar los diferentes commint)
-13 git diff commit_id commit_id ejemplo : git diff bc070 40c907 (para validar las diferencias de las versiones guardadas ponienod los 5 primeros codigos de cada versi髇)
-14 git checkout commit_id ejemplo:git checkout bc070 (para volver a una versi髇 anterior)
+13 git diff commit_id commit_id ejemplo : git diff bc070 40c907 (para validar las diferencias de las versiones guardadas ponienod los 5 primeros codigos de cada versi贸n)
+14 git checkout commit_id ejemplo:git checkout bc070 (para volver a una versi贸n anterior)
 15 git tag -a nombre_de_la_eqtiqueta -m (mensaje explicativo) ejemplo:git tag -l "v1"
 como crear una rama
 16 
@@ -33,7 +33,7 @@ guardar esta rama en el repositorio con git commit -m "nueva rama"
 17 para unir las 2 ramas vamos a usar 
 -git checkout master
 -git merge rama (unir la rama actual con la rama especiica)
--git branch (listar las ramas existentes)g
+-git branch (listar las ramas existentes)
 
 
 hacer un repositorio remoto
@@ -51,3 +51,4 @@ manejar repositorios para git
 -instalar www.sourcetreeapp.com
 -prueba
 
+pruba
