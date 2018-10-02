@@ -33,6 +33,20 @@ guardar esta rama en el repositorio con git commit -m "nueva rama"
 17 para unir las 2 ramas vamos a usar 
 -git checkout master
 -git merge rama (unir la rama actual con la rama especiica)
--git branch (listar las ramas existentes)
+-git branch (listar las ramas existentes)g
 
+
+hacer un repositorio remoto
+1- entratar a github.com
+2- poner correo y clave
+ correo: julianoviedo123@hotmail.com
+ clave: clave igual ala de next u
+3- crear el repositorio
+4- llevar los archivos al repositorio remoto esto es push
+5- llevar los archivos del remoto al equipo esto es pull
+
+
+manejar repositorios para git
+1-SourceTree
+-instalar www.sourcetreeapp.com
 
