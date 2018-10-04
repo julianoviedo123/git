@@ -50,4 +50,4 @@ manejar repositorios para git
 1-SourceTree
 -instalar www.sourcetreeapp.com
 -instalar github
-
+-enviar información a github
