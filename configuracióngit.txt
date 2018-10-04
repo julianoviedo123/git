@@ -1,4 +1,4 @@
-buscar gt bash
+﻿buscar gt bash
 
 poner los siguientes comandos
 
@@ -49,6 +49,5 @@ hacer un repositorio remoto
 manejar repositorios para git
 1-SourceTree
 -instalar www.sourcetreeapp.com
--prueba
+-instalar github
 
-pruba
